@@ -1,1 +1,1 @@
-# Dutch Auction smart contract for NFT tokens.
+# Dutch auction smart contract for NFT tokens.
